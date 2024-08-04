@@ -20,13 +20,6 @@
   3. Visualizations and plots showing the relationship between GDP and life expectancy.
   4. Blog post summarizing the findings.
 
-#### Stakeholders
-- **Project Sponsor:** Alex Hunter
-- **Project Manager:** Alex Hunter
-- **Team Members:** Alex Hunter
-- **External Stakeholders:** 
-  - World Health Organization (for blog post publication)
-  - Potential employers or clients reviewing your portfolio
 
 #### Requirements
 
