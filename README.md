@@ -1,4 +1,4 @@
-# Life Expectancy and GDP Starter
+# Life Expectancy and GDP
 ### Project Scope Document
 
 #### Project Overview
